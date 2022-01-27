@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+body {
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background-image: url("images/infoBillede.jpg");
+    color: rgba(255, 255, 255, 1);
+    background-repeat: no-repeat;
+}
+
+.infoText p {
+    color: rgba(255, 255, 255, 1);
+    display: inline-block;
+    text-align: left;
+}
+.infoText {
+  text-shadow: 14px rgba(36, 37, 42, 1);
+}
+.infoText2 p {
+  color: rgba(255, 255, 255, 1);
+  text-align: left;
+  display: inline-block;
+}
+.infoText3 p {
+  color: rgba(255, 255, 255, 1);
+  text-align: left;
+  display: inline-block;
+}
+* h1 {
+  font-family: Be Vietnam Pro;
+  font-weight: 500;
+  font-size: 44px;
+}
+* p {
+  font-family: Be Vietnam Pro;
+  font-weight: 400;
+}
+.frontpage {
+  padding: 0;
+}
